@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itemlist>
+	<item id="1">
+		<name>Test Sword</name>
+		<desc>a mighty sword forged for testing code</desc>
+	</item>
+	<item id="2">
+		<name>Pen of Doom</name>
+		<desc>this is mighty-er than the sword</desc>
+	</item>
+	<item id="3">
+		<name>Axe of Might</name>
+		<desc>an axe made of pure stregnth, which isn't useful for hitting things</desc>
+	</item>
+	<item id="4">
+		<name>Spear</name>
+		<desc>it's a sharpened stick</desc>
+	</item>
+	<item id="5">
+		<name>Hammer</name>
+		<desc>for nailing nails into boards. Or skulls</desc>
+	</item>
+</itemlist>

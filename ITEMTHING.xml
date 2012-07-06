@@ -1,0 +1,38 @@
+<itemlist>
+    <item id="1">
+        <name>Test Sword</name>
+        <desc>a mighty sword forged for testing code</desc>
+    </item>
+    <item id="2">
+        <name>Pen of Doom</name>
+        <desc>this is mighty-er than the sword</desc>
+    </item>
+    <item id="3">
+        <name>Axe of Might</name>
+        <desc>an axe made of pure stregnth, which isn't useful for hitting things</desc>
+    </item>
+    <item id="4">
+        <name>Spear</name>
+        <desc>it's a sharpened stick</desc>
+    </item>
+    <item id="5">
+        <name>Hammer</name>
+        <desc>for nailing nails into boards. Or skulls</desc>
+    </item>
+    <item id="6">
+        <name>Stick of Killing</name>
+        <desc>you can kill things with this stick</desc>
+    </item>
+    <item id="7">
+        <name>Giant Fluffy Rabbit</name>
+        <desc>a big old fluffy rabbit that puts fear in the hearts of men</desc>
+    </item>
+    <item id="8">
+        <name>ATEST</name>
+        <desc>ATEST</desc>
+    </item>
+    <item id="9">
+        <name>thing</name>
+        <desc>thing</desc>
+    </item>
+</itemlist>
