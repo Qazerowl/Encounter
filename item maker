@@ -1,0 +1,10 @@
+import xml.etree.ElementTree as ET
+
+tree = ET.parse('k:\\ENCOUNTER\\xmlfile.xml')
+
+weaponTotal = int(ET.tostringlist(tree.findall("item")[-1])[1].decode("utf-8")[5:][:-1])
+
+newname = input("NAME:  ")
+
+
+

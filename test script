@@ -1,0 +1,9 @@
+import xml.etree.ElementTree as ET
+
+open('k:\\ENCOUNTER\\xmlfile.xml')
+
+tree = ET.parse('k:\\ENCOUNTER\\xmlfile.xml')
+weapon= 1
+
+
+print("You are weilding a " + tree.findtext("name") + ", " + tree.findtext("desc"))

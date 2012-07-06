@@ -9,7 +9,7 @@ def newelement(whatelement):
 
 
 while True:
-    tree = ET.parse('c:\\ENCOUNTER\\ITEMTHING.xml')
+    tree = ET.parse('D:\\ENCOUNTER\\ITEMTHING.xml')
     root = tree.getroot()
     weaponTotal = int(ET.tostringlist(tree.findall("item")[-1])[1].decode("utf-8")[5:][:-1])
 
@@ -23,4 +23,4 @@ while True:
     setelement("name", newname)
     setelement("desc", newdesc)
     
-    ET.ElementTree(root).write("c:\\ENCOUNTER\\ITEMTHING.xml")
+    ET.ElementTree(root).write("D:\\ENCOUNTER\\ITEMTHING.xml")

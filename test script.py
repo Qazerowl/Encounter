@@ -1,6 +1,6 @@
 import xml.etree.ElementTree as ET
 
-tree = ET.parse('c:\\ENCOUNTER\\ITEMTHING.xml')
+tree = ET.parse('e:\\ENCOUNTER\\ITEMTHING.xml')
 
 
 weaponTotal = int(ET.tostringlist(tree.findall("item")[-1])[1].decode("utf-8")[5:][:-1])
